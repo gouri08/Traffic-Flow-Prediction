@@ -21,16 +21,26 @@ Built with an intuitive Streamlit UI.
 🛠️ Tech Stack
 
 Tool
+
 Python-->Programming language
+
 Streamlit-->Web app interface
+
 scikit-learn-->ML model training
+
 joblib-->Model persistence
+
 NumPy-->Data manipulation
 
 
 📁 Project Structure
+
 traffic-flow-predictor/
+
 ├── app.py                    # Main Streamlit app
+
 ├── traffic_rf_model.pkl      # Saved ML model & label encoder
+
 ├── README.md                 # Project overview
+
 
