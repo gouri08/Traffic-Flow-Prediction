@@ -4,6 +4,7 @@ A Streamlit app that predicts traffic conditions based on user inputs such as ve
 📈 Features
 Predicts traffic levels using a trained Random Forest model.
 Displays:
+
 🔢 Encoded prediction (numeric)
 🗋 Label-based prediction (interpretable)
 Rule-based categorization:
