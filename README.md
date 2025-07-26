@@ -6,15 +6,20 @@ Predicts traffic levels using a trained Random Forest model.
 Displays:
 
 🔢 Encoded prediction (numeric)
+
 🗋 Label-based prediction (interpretable)
+
 Rule-based categorization:
+
 ≤ 10 vehicles: Low
 11–50: Moderate
 51–100: Normal
 100: High
 
 Built with an intuitive Streamlit UI.
+
 🛠️ Tech Stack
+
 Tool
 Python-->Programming language
 Streamlit-->Web app interface
